@@ -1,0 +1,7 @@
+streamlit
+firebase-admin
+streamlit-folium
+requests
+geopy
+pandas
+
